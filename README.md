@@ -1,6 +1,6 @@
 # ML-Project-Fake-News-Detection
 ## Basics
-This is a Fake-News Detection System. This project was created as a project for Artificial Intelligence Course (CSE422) in BRAC University.
+This is a Fake-News Detection System. This project was created as a part for Artificial Intelligence Course (CSE422) in BRAC University.
 Models used: Logistic Regression, Support Vector Classifier and Naive Bayes
 
 Scores after pre-processing (TF-IDF Vectorizer):
